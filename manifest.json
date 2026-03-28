@@ -1,0 +1,8 @@
+{
+  "name": "TV Booking",
+  "short_name": "TV App",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#4caf50"
+}
